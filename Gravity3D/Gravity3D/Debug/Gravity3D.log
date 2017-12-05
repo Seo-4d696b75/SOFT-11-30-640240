@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\skaor\documents\2a\soft2_171130\gravity3d\gravity3d\main.cpp(42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Gravity3D.vcxproj -> C:\Users\skaor\Documents\2A\soft2_171130\Gravity3D\Debug\Gravity3D.exe
+  Gravity3D.vcxproj -> C:\Users\skaor\Documents\2A\soft2_171130\Gravity3D\Debug\Gravity3D.pdb (Full PDB)
